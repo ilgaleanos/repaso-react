@@ -1,3 +1,7 @@
+# Introducción
+
+Importante leer este [artículo](https://midu.dev/react-hooks-use-effect-funcionalidad-en-el-ciclo-vida-componentes/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
