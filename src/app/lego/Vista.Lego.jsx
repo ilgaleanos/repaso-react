@@ -35,7 +35,7 @@ const VistaLego = (props) => {
 
 
     // Esto falla al descomentarse, se debería leer porque...
-    // fn.complejoLog(2);
+    // fn.desacoplado(2);
 
     return (
         // todos los componentes 'piezas' deberian tener un envolvente div con una clase
